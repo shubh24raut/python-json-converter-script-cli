@@ -55,7 +55,8 @@ json-translator/
 "@@locale": "en",
 "greeting": "Hello",
 "farewell": "Goodbye"
-}````
+}
+````
 
 ```
 python translate_json.py
