@@ -52,5 +52,5 @@ json-translator/
 ```
 
 ```
-python translate_json.py
+python translate.py
 ```
