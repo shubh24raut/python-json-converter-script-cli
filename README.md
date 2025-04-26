@@ -51,7 +51,8 @@ json-translator/
 └── README.md               # You're here!
 ```
 
-`````{
+`````
+{
 "@@locale": "en",
 "greeting": "Hello",
 "farewell": "Goodbye"
