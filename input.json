@@ -1,0 +1,9 @@
+{
+  "selectAll": "Select all",
+  "fieldName": "Field Name",
+  "hintFullName": "Enter your Full Name",
+  "hintTitle": "Enter your Title",
+  "hintCompany": "Enter your Company",
+  "hintCertificates": "Enter your Certificates",
+  "hintEmail": "Enter your email"
+}
