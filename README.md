@@ -44,7 +44,6 @@ pip install -r requirements.txt
 json-translator/
 │
 ├── translate_json.py       # Main script to run
-├── languages.json          # (optional) Language code map
 ├── input.json              # Your source JSON (example)
 ├── output.json             # Output translated file
 ├── requirements.txt        # Python dependencies
